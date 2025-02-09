@@ -55,11 +55,11 @@
 
 <h2 align="left">Projects</h2>
 
-## Farfor
+<h3 align="left">Farfor</h3> 
 
 [![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/16/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)](https://ufa.farfor.ru/) [**Farfor**](https://ufa.farfor.ru/) – Vue SSR website (Выполнение различных задач, работа над StoryBook, [Sitemap](https://ufa.farfor.ru/sitemap/) [Каталог в формате LandingPage](https://ufa.farfor.ru/landing-page/))
 
-## CMS
+<h3 align="left">CMS</h3>
 
 [![](https://img.icons8.com/?size=16&id=v9uZbuVoWleB&format=png&color=000000)](https://world-tools.ru/) [**World Tools (2024)**](https://world-tools.ru/) – Каталог для постащика строительной техники
 
@@ -67,7 +67,7 @@
 
 [![](https://img.icons8.com/?size=16&id=v9uZbuVoWleB&format=png&color=000000)](https://searm.ru) [**Searm (2024)**](https://searm.ru) – Сайт-визитка для компании, занимающейся судовым снабжением
 
-## Pet projects
+<h3 align="left">Pet projects</h3>
 
 [![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/16/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)]()[**Food Store (2025)**]() - `Сайт для доставки еды` ([source](https://github.com/ScripThor/Food-Store))
 
