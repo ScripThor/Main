@@ -57,7 +57,7 @@
 
 ## Farfor
 
-[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/16/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)](https://ufa.farfor.ru/) [**Farfor**](https://ufa.farfor.ru/) – Vue SSR website (Выполнение различных задач, [Sitemap](https://ufa.farfor.ru/sitemap/) [Каталог в формате LandingPage](https://ufa.farfor.ru/landing-page/))
+[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/16/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)](https://ufa.farfor.ru/) [**Farfor**](https://ufa.farfor.ru/) – Vue SSR website (Выполнение различных задач, работа над StoryBook, [Sitemap](https://ufa.farfor.ru/sitemap/) [Каталог в формате LandingPage](https://ufa.farfor.ru/landing-page/))
 
 ## CMS
 
