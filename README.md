@@ -69,7 +69,7 @@
 
 <h3 align="left">Pet projects</h3>
 
-[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/16/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)]()[**Food Store (2025)**]() - `Сайт для доставки еды. В процессе` ([source](https://github.com/ScripThor/Food-Store))
+[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/16/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)](https://foodstore-2a875.web.app/)[**Food Store (2025)**](https://foodstore-2a875.web.app/) - `Сайт для доставки еды. В процессе` ([source](https://github.com/ScripThor/Food-Store))
 
 ###
 
